@@ -48,7 +48,7 @@ function newtonMethod(func, derivativeFunc, initialX, epsilon, dgt, maxIter) {
 количество знаков после запятой (dgt) = 8 <br>
 максимальное количество итераций (maxIter) = 50 <br>
 найдем X<sub>0</sub> (initialX) = 10 <br>
-зададим само выражение(expr) = <img src="https://latex.codecogs.com/gif.latex?3 - 0.5*sqrt(x) - exp(-0.5*x^2)"/>
+зададим само выражение(expr) = <img src="https://latex.codecogs.com/gif.latex?3%20-%200.5*sqrt(x)%20-%20exp(-0.5*x^2)"/>
 
 ```javascript
 function evalToFunc(originalEval) {
