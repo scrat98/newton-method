@@ -1,0 +1,24 @@
+{
+  "name": "newton-method",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "mathjs": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrat98/newton-method.git"
+  },
+  "author": "scrat98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrat98/newton-method/issues"
+  },
+  "homepage": "https://github.com/scrat98/newton-method#readme",
+  "description": ""
+}
